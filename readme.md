@@ -27,7 +27,7 @@ python -m venv <venv-name(replace with actual env name)>
 deactivate
 
 ```
-- Mac and Linux
+- Mac and Linux and unix os
 ```
 cd project-name
 python -m venv <venv-name(replace with actual env name)>
